@@ -17,9 +17,12 @@
   "author": "Ninjamuffin99 and AceTrainerAndrew",
   "license": "ISC",
   "homepage": "https://acetrainerandrew.github.io/fnf-week-7-code/",
-"pkg":{
-"assets":[
-"assets/"
-]
-}
+  "pkg": {
+    "assets": [
+      "assets/"
+    ]
+  },
+  "dependencies": {
+    "@github-docs/data-directory": "^1.2.0"
+  }
 }
